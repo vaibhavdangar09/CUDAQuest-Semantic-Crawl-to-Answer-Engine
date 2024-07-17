@@ -1,0 +1,14 @@
+requests
+beautifulsoup4
+langchain
+langchain_experimental
+sentence_transformers
+pymilvus==2.1.1
+scrapy
+nltk
+rank_bm25
+torch
+transformers
+streamlit
+selenium
+webdriver_manager
